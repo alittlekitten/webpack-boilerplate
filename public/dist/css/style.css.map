@@ -1,0 +1,1 @@
+{"version":3,"file":"/css/style.css","mappings":";;;AAAA;EACI,aAAa;EACb,wDAAwD;;AAG5D;EACI,UAAU","sources":["webpack://boilerplate/./public/sass/index.scss"],"sourcesContent":["body {\r\n    padding: 50px;\r\n    font: 14px \"Lucida Grande\", Helvetica, Arial, sans-serif;\r\n  }\r\n\r\np {\r\n    color: red;\r\n}"],"names":[],"sourceRoot":""}

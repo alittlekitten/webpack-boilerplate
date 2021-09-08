@@ -11,10 +11,14 @@
     "@babel/runtime": "^7.15.4",
     "@babel/runtime-corejs3": "^7.15.4",
     "cookie-parser": "~1.4.4",
+    "csv-loader": "^3.0.3",
     "debug": "~2.6.9",
     "express": "~4.16.1",
+    "file-loader": "^6.2.0",
+    "image-webpack-loader": "^7.0.1",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "xml-loader": "^1.2.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.15.4",
@@ -24,6 +28,7 @@
     "@babel/preset-env": "^7.15.4",
     "babel-loader": "^8.2.2",
     "css-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.2",
     "mini-css-extract-plugin": "^2.2.2",
     "node-sass": "^6.0.1",
     "sass-loader": "^12.1.0",

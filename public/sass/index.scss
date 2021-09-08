@@ -1,6 +1,13 @@
+@font-face {
+    font-family: 'Noto Sans KR';
+    src: local(※), url("../fonts/NotoSansKR-Regular.otf");
+    font-weight: 400;
+    unicode-range: U+AC00-D7AF, U+0030-0039;
+}
+
 body {
     padding: 50px;
-    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    font: 14px "Noto Sans KR", "Lucida Grande", Helvetica, Arial, sans-serif;
   }
 
 p {
